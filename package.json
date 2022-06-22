@@ -1,0 +1,23 @@
+{
+  "name": "easy-core",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "easy-vue-script": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dongtaoer@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^9.0.0",
+    "ora": "^6.1.0",
+    "path": "^0.12.7",
+    "webpack": "^5.73.0"
+  }
+}
